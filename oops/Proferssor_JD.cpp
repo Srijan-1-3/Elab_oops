@@ -1,4 +1,4 @@
-Professor JD has lots of options. Bottles containing all types of potions are stacked on shelves which cover the entire wall from floor to ceiling.
+/*Professor JD has lots of options. Bottles containing all types of potions are stacked on shelves which cover the entire wall from floor to ceiling.*/
 
 #include <iostream>
 #include <cmath>
