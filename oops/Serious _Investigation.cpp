@@ -1,4 +1,4 @@
-After completing some serious investigation, Arif and Simon are now chilling themselves in the Ooty Hills.
+/*After completing some serious investigation, Arif and Simon are now chilling themselves in the Ooty Hills.*/
 
 #include <iostream>
 #include <cmath>
